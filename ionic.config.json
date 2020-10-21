@@ -1,5 +1,7 @@
 {
   "name": "academyFire",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
